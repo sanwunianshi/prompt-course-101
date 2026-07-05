@@ -6,7 +6,7 @@
 
 | 集数 | 主题 | 代码 |
 |------|------|------|
-| 集0 | 预备课：环境与心法 | 无代码 |
+| 集0 | 预备课：20 分钟跑通第一次 API 调用（ModelScope Notebook + DeepSeek） | [ep00-setup](./ep00-setup) |
 | 集1 | Prompt 的基础架构（三种 role / max_tokens / role 顺序 / system prompt / temperature） | [ep01-basic-structure](./ep01-basic-structure) |
 | 集2 | 清晰与直接 | 更新中 |
 | 集3 | 角色赋予 | 更新中 |
